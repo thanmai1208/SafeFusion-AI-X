@@ -1,0 +1,17 @@
+{
+    "unique_pedestrians": 1,
+    "unique_vehicles": 17,
+    "cars": 270,
+    "trucks": 29,
+    "buses": 24,
+    "motorcycles": 0,
+    "bicycles": 0,
+    "highest_risk": "HIGH",
+    "collision_warnings": 11,
+    "video_frames": 150,
+    "estimated_ttc": 5.0,
+    "fps": 29.97,
+    "average_confidence": 63.7,
+    "last_updated": "2026-08-14 20:33:34",
+    "input_video": "videos/input_video.mp4"
+}
