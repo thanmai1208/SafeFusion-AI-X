@@ -37,7 +37,7 @@ streamlit run app.py
 
 ## Dashboard
 
-![Dashboard]dashboard.png
+![Dashboard](dashboard.png)
 
 ## Team
 
