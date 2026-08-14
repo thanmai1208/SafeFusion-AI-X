@@ -35,6 +35,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Dashboard
+
+![Dashboard](dashboard.png)
+
 ## Team
 
 **Team SafeFusion AI X**
